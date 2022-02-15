@@ -1,0 +1,79 @@
+#contenedor {
+  position: absolute;
+  margin-top: 40px;
+  margin-left: 40px;
+  border-radius: 20px;
+   width: 500px;
+   height: 220px;
+   background-color: blueviolet;
+}
+
+#caja1 {
+  position: absolute;
+  margin-left: 20px;
+  margin-top: 40px;
+}
+#caja2 {
+  position: absolute;
+  margin-left: 110px;
+}
+#caja3 {
+  position: absolute;
+  margin-left: 200px;
+}
+
+#hume{
+  margin-top: px;
+  font-size: 25px;
+}
+#humedad{
+  margin-top: -20px;
+  font-size: 25px;
+}
+
+#temperatura-descripcion{
+  margin-top: -5px;
+  width: 400px;
+  height: 400;
+}
+
+#temperatura-valor {
+  margin-top: 10px;
+  font-size: 30px;
+}
+
+
+#ubicacion {
+  margin-top: 20px;
+  width: 230px;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+#vient {
+  width: 145px;
+  height: 40px;
+  font-size: 28px;
+  margin-top: 25px;
+  margin-left: 160px;
+}
+
+#viento {
+  margin-top: 6px;
+  margin-left: 200px
+}
+
+#icono-animado{
+  margin-top: -20px;
+  margin-left: 70px;
+  font-size: rem;
+}
+
+
+#cli {
+  margin-top: -22px;
+  width: 90px;
+  height: 40px;
+}
+
